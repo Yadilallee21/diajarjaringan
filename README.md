@@ -11,7 +11,4 @@
 ```
 /ip hotspot walled-garden ip
 
-add action=accept comment="Mikhmon QR Code Scanner" disabled=no dst-host=laksa19.github.io
-```
-
-### Powered by webqr.com
+add action=accept comment="Mikhmon QR Code Scanner" disabled=no dst-host=github.com/Yadilallee21/diajarjaringan
